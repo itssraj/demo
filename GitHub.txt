@@ -1,0 +1,24 @@
+GitHub
+
+
+A platform where developer can save, debug, store projects on a cloud and Git is basically used to push files which are locally available on the laptop or desktop to the online cloud platform that is GitHub.
+
+Repository are basically a project that we create and store our files in and we have option like public and private through which we can decide that our code will be visible or project should be visible to everyone or only once with the access
+
+
+we can add readme files to give a short overview about the projects tech stack which is used and how its working a bit of that and we also have a gitignore option that let us to put certain files which are not that important for others to see
+
+
+we can create branches to create new features and also there is a main branch through which we can connect other branches if we need them in the project 
+
+
+new branches is exactly same as main but the difference is we are on a clone or a new branch to experiment things
+
+
+commit helps us to keep a record of each change that we have done and also is usefull if we want to go back for example to a older version of a application or code
+
+
+open and merge pull request notifies developers about changes we have pushed to a branch in a repository 
+
+two types of pull request 
+fork pull request and branch pull request
