@@ -1,5 +1,4 @@
-GitHub
-
+GitHub Basics
 
 A platform where developer can save, debug, store projects on a cloud and Git is basically used to push files which are locally available on the laptop or desktop to the online cloud platform that is GitHub.
 
